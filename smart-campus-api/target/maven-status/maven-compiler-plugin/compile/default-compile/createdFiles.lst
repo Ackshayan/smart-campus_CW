@@ -1,3 +1,4 @@
+com\smartcampus\config\JacksonConfig.class
 com\smartcampus\exception\RoomNotEmptyException.class
 com\smartcampus\store\DataStore.class
 com\smartcampus\model\Sensor.class
